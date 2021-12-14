@@ -22,7 +22,8 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            careerguru.online domain not configured  Login as admin
+  
           </a>
         </header>
       </div>
